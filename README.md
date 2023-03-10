@@ -16,4 +16,4 @@
 
 
 
-![Snake Animation](https://github.com/kocuja/kocuja/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kocuja/kocuja/blob/main/github-contribution-grid-snake.svg)
