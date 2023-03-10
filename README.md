@@ -10,10 +10,10 @@
 ```
 **╰ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ╯** ᅠᅠ ᅠᅠ ᅠᅠᅠ **╰ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ ᅠᅠᅠᅠᅠᅠᅠ╯**
 ##
-ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ![Luana Bannwart's GitHub stats](https://github-readme-stats.vercel.app/api?username=kocuja&show_icons=true&theme=midnight-purple)
+ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ![Luana Bannwart's GitHub stats](https://github-readme-stats.vercel.app/api?username=kocuja&show_icons=true&theme=midnight-purple)
 ### ᅠᅠ
-ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocuja&layout=compact&theme=midnight-purple)](https://github.com/kocuja/github-readme-stats)
+ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocuja&layout=compact&theme=midnight-purple)](https://github.com/kocuja/github-readme-stats)
 
 
 
-aaaaaaaa
+
