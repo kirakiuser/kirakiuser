@@ -19,7 +19,7 @@
 ### ᅠᅠᅠ
 ᅠᅠᅠ
 <div>
- ᅠᅠᅠ ᅠᅠᅠᅠᅠᅠᅠᅠ ᅠᅠ<a href="https://www.instagram.com/luubnart_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ ᅠᅠᅠ ᅠᅠᅠᅠᅠᅠᅠᅠ ᅠ<a href="https://www.instagram.com/luubnart_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://mail.google.com/mail/u/2/?hl=pt-BR&tf=cm&fs=1&to=luanafaculimp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <a href="https://www.twitch.tv/kocuja" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luana-bannwart-56b89a266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
