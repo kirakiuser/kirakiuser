@@ -31,5 +31,5 @@
 ### ᅠᅠᅠ
 ## ᅠᅠᅠ
 
-
+![snake gif](https://github.com/kocuja/kocuja/blob/output/github-contribution-grid-snake.svg)
 
