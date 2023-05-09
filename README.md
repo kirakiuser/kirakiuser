@@ -1,4 +1,4 @@
- ᅠᅠ ᅠᅠ  ᅠᅠ  ᅠᅠ ᅠᅠ  <img src="https://i.pinimg.com/originals/1d/9c/07/1d9c073a675d845ad318d9db72563b9b.gif">
+ ᅠᅠ ᅠᅠ  ᅠᅠ  ᅠᅠ ᅠᅠ  <img src="https://cdn.discordapp.com/attachments/731123093799698435/1105303065424306237/from_Tokimeki__gif_by_90sanime.gif">
 
 
 ##
