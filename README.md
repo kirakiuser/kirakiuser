@@ -1,4 +1,4 @@
- ᅠᅠ ᅠᅠ  ᅠᅠ  ᅠᅠ ᅠᅠ  <img src="https://i.pinimg.com/originals/73/48/07/734807779ad6cc5b0620359f950d2ff1.gif"> 
+ ᅠᅠ ᅠᅠ  ᅠᅠ  ᅠᅠ ᅠᅠ  <img src="https://i.pinimg.com/originals/6d/da/37/6dda3750efc2de4d968173df424195c1.gif"> 
 
 
 ##
