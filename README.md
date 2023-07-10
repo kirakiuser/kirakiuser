@@ -16,9 +16,9 @@
 ###### ᅠ ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ ᅠᅠᅠᅠᅠᅠ𝑚𝑎𝑑𝑒 𝑏𝑦: 𝐿𝑢𝑎𝑛𝑎 𝐵𝑎𝑛𝑛𝑤𝑎𝑟𝑡.ᅠᅠ
 ##
 ### ᅠᅠᅠ
-ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ![Luana Bannwart's GitHub stats](https://github-readme-stats.vercel.app/api?username=kocuja&show_icons=true&theme=midnight-purple)
+ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ![Luana Bannwart's GitHub stats](https://github-readme-stats.vercel.app/api?username=luubnart&show_icons=true&theme=midnight-purple)
 ### ᅠᅠ
-ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocuja&layout=compact&theme=midnight-purple)](https://github.com/kocuja/github-readme-stats)
+ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luubnart&layout=compact&theme=midnight-purple)](https://github.com/kocuja/github-readme-stats)
 
 ### ᅠᅠᅠ
 ᅠᅠᅠ
